@@ -209,6 +209,7 @@ class BasePlusCommissionEmployee extends CommissionEmployee {
     }
 }
 
+// A demo for how to use the previous classes: 
 public class Main {
     public static void main(String[] args) {
         CommissionEmployee commissionEmployee = new CommissionEmployee("Abdullah", 2323423, 3242, 0.15);
