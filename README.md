@@ -1,8 +1,3 @@
-Nice work 👏 That’s a solid **introductory OOP practice project**.
-Here’s a **professional README.md** you can add to your repo:
-
----
-
 # Employee Management (OOP Practice in Java)
 
 This project is a simple **Object-Oriented Programming (OOP)** practice application in Java.
@@ -119,5 +114,3 @@ This project helps beginners practice:
   Practice project for **Introductory OOP Course**
 
 ---
-
-Would you like me to also make a **badass ASCII art project logo** at the top of the README (like `EMPLOYEE MANAGEMENT SYSTEM` in block letters), or keep it clean and minimal?
